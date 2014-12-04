@@ -48,6 +48,7 @@ def getBookById(book_id):
 	session.close()
 	return book
 
+
 users = getAllUsers()
 for u in users:
 	print u.id, u.name
