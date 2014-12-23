@@ -18,3 +18,6 @@ if __name__ == '__main__':
     lily.introduce()
     lily.say("WTF")
     lily.leave()
+
+
+one = Person('ONE')
